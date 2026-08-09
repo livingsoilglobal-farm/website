@@ -64,7 +64,7 @@ export default function HomePage() {
           </div>
           <a className="locationLink" href="https://maps.app.goo.gl/kb2uCLaeuWdoP19S7" target="_blank" rel="noreferrer"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s7-6.1 7-12a7 7 0 1 0-14 0c0 5.9 7 12 7 12Z"/><circle cx="12" cy="9" r="2.3"/></svg><span><small>VISIT THE FARM</small>Andhra Pradesh, India</span><b>↗</b></a>
         </div>
-        <div className="footerBottom"><span>© 2026 Living Soil Farms</span><span>Grown with intention · Supplied with confidence</span></div>
+        <div className="footerBottom"><span>© 2026 Living Soil Farms Pvt. Ltd.</span><span>Grown with intention · Supplied with confidence</span></div>
       </footer>
     </main>
   );
